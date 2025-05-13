@@ -1,0 +1,9 @@
+# CLion / CMake
+.idea/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.ninja*
+# VSCode / others
+.vscode/
